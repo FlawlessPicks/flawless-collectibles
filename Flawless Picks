@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Flawless Collectibles</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #0d1117;
+      color: #c9d1d9;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      height: 100vh;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      max-width: 600px;
+      border: 1px solid #30363d;
+      border-radius: 12px;
+      padding: 30px;
+      background: #161b22;
+      box-shadow: 0 0 12px rgba(255, 255, 255, 0.05);
+    }
+    h1 {
+      font-size: 28px;
+      color: #58a6ff;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 16px;
+      line-height: 1.6;
+    }
+    .highlight {
+      color: #f85149;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Flawless Collectibles</h1>
+    <p>
+      This invention, titled <span class="highlight">Flawless Collectibles</span>, was conceived, documented, and timestamped with formal assistance from ChatGPT.
+    </p>
+    <p>
+      This page serves as a digital record and verification of creation by <span class="highlight">Joel Lawless</span>, backed by AI-generated documentation. While not a legal patent, this record demonstrates clear intellectual authorship.
+    </p>
+    <p>
+      For formal verification, please reference the original conversation and creation logs associated with this content via ChatGPT.
+    </p>
+    <p><em>Created and preserved with ChatGPT — OpenAI's language model — April 2025.</em></p>
+  </div>
+</body>
+</html>
